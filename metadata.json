@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Web Architect",
+  "description": "An AI-powered website builder that generates responsive, single-file HTML/Tailwind websites based on your descriptions. Iterate on designs instantly with a chat interface.",
+  "requestFramePermissions": []
+}
